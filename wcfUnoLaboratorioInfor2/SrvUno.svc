@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="wcfUnoLaboratorioInfor2.SrvUno" CodeBehind="SrvUno.svc.vb" %>

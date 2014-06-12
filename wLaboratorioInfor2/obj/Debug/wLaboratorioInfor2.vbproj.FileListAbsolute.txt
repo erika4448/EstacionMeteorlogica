@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.Resources.resources
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\PRUEBA_MOBILE_PAGE\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.Resources.resources
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.Resources.resources
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.pdb
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll.config
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.Resources.resources
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.dll
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.xml
+E:\DCTOS ERIKA\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Debug\wLaboratorioInfor2.pdb

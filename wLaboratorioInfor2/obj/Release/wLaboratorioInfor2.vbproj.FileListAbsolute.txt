@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.Resources.resources
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.dll
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.xml
+C:\Users\Administrator\Desktop\wLaboratorioInfor2\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.pdb
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll.config
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.dll
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.pdb
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\bin\wLaboratorioInfor2.xml
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.Resources.resources
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.vbproj.GenerateResource.Cache
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.dll
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.xml
+E:\DCTOS ERIKA\wEstacionMeteo_20140515\wEstacionMeteo\wEstacionMeteo\wLaboratorioInfor2\obj\Release\wLaboratorioInfor2.pdb

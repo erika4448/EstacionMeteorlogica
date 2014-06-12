@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\PUBLICACION</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/wLaboratorioInfor2.dll">
+      <publishTime>05/29/2014 18:01:45</publishTime>
+    </File>
+    <File Include="bin/wLaboratorioInfor2.xml">
+      <publishTime>05/29/2014 18:01:45</publishTime>
+    </File>
+    <File Include="Images/clima.jpg">
+      <publishTime>05/08/2014 13:38:53</publishTime>
+    </File>
+    <File Include="Images/ibtnRefresh.png">
+      <publishTime>05/08/2014 13:50:12</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/configuration.svcinfo">
+      <publishTime>05/08/2014 14:30:37</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/configuration91.svcinfo">
+      <publishTime>05/08/2014 14:30:37</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/MeteorologiaWS.wsdl">
+      <publishTime>05/08/2014 16:38:01</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/Reference.svcmap">
+      <publishTime>05/08/2014 14:30:37</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/SrvUno.disco">
+      <publishTime>05/08/2014 14:30:37</publishTime>
+    </File>
+    <File Include="Service References/SrvUno/SrvUno.wsdl">
+      <publishTime>05/08/2014 14:30:37</publishTime>
+    </File>
+    <File Include="Service References/srvUno/wLaboratorioInfor2.srvUno.DatosMeteorologicosDTO.datasource">
+      <publishTime>05/15/2014 11:49:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2014 18:01:45</publishTime>
+    </File>
+    <File Include="wInicio.aspx">
+      <publishTime>05/15/2014 12:43:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
